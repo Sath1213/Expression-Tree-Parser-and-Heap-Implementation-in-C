@@ -1,3 +1,5 @@
+## Expression Tree Parser and Heap Implementation in C
+
 This project implements two core data structure and algorithm components in C:
 
 
