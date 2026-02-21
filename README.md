@@ -3,8 +3,7 @@ This project implements two core data structure and algorithm components in C:
 
 
 1. An arithmetic expression tree parser and evaluator
-
-2\. A max-heap builder operating on a 2D integer dataset
+2. A max-heap builder operating on a 2D integer dataset
 
 
 
