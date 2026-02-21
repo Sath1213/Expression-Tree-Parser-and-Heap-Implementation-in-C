@@ -1,7 +1,5 @@
 /*
 Name: Sathursan Rasatheepan
-login: srasathe
-Student ID: 1343472
 Date September 26, 2025
 */
 
